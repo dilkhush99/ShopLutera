@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ShopLutera/static/css/main.2a886e4a.chunk.css",
+    "main.js": "/ShopLutera/static/js/main.bf4a397a.chunk.js",
+    "main.js.map": "/ShopLutera/static/js/main.bf4a397a.chunk.js.map",
+    "runtime-main.js": "/ShopLutera/static/js/runtime-main.e9820041.js",
+    "runtime-main.js.map": "/ShopLutera/static/js/runtime-main.e9820041.js.map",
+    "static/js/2.d3792780.chunk.js": "/ShopLutera/static/js/2.d3792780.chunk.js",
+    "static/js/2.d3792780.chunk.js.map": "/ShopLutera/static/js/2.d3792780.chunk.js.map",
+    "static/js/3.1a30527a.chunk.js": "/ShopLutera/static/js/3.1a30527a.chunk.js",
+    "static/js/3.1a30527a.chunk.js.map": "/ShopLutera/static/js/3.1a30527a.chunk.js.map",
+    "index.html": "/ShopLutera/index.html",
+    "static/css/main.2a886e4a.chunk.css.map": "/ShopLutera/static/css/main.2a886e4a.chunk.css.map",
+    "static/js/2.d3792780.chunk.js.LICENSE.txt": "/ShopLutera/static/js/2.d3792780.chunk.js.LICENSE.txt",
+    "static/media/001.2d7ca9e9.jpg": "/ShopLutera/static/media/001.2d7ca9e9.jpg",
+    "static/media/Rayban.e6ee4256.jpg": "/ShopLutera/static/media/Rayban.e6ee4256.jpg",
+    "static/media/Raymond.7c813804.jpg": "/ShopLutera/static/media/Raymond.7c813804.jpg",
+    "static/media/i004.dd35347f.jpg": "/ShopLutera/static/media/i004.dd35347f.jpg",
+    "static/media/i01.f9408e8e.jpg": "/ShopLutera/static/media/i01.f9408e8e.jpg",
+    "static/media/i02.ce23adca.jpg": "/ShopLutera/static/media/i02.ce23adca.jpg",
+    "static/media/i03.6df21fc4.jpg": "/ShopLutera/static/media/i03.6df21fc4.jpg",
+    "static/media/i05.790156ce.jpg": "/ShopLutera/static/media/i05.790156ce.jpg",
+    "static/media/i06.9819a970.jpg": "/ShopLutera/static/media/i06.9819a970.jpg",
+    "static/media/i07.aa0fb4d7.jpg": "/ShopLutera/static/media/i07.aa0fb4d7.jpg",
+    "static/media/i08.58ea7324.jpg": "/ShopLutera/static/media/i08.58ea7324.jpg",
+    "static/media/mode1.83190173.jpg": "/ShopLutera/static/media/mode1.83190173.jpg",
+    "static/media/puma.89b25590.jpg": "/ShopLutera/static/media/puma.89b25590.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9820041.js",
+    "static/js/2.d3792780.chunk.js",
+    "static/css/main.2a886e4a.chunk.css",
+    "static/js/main.bf4a397a.chunk.js"
+  ]
+}
